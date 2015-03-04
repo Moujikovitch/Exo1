@@ -3,6 +3,7 @@ header{
 	position:absolute;
 	left:0px;
 	top:0px;
+	text-decoration: none;
 }
 #kikoo {
 	margin:auto;
@@ -15,4 +16,8 @@ body {
 }
 #kikoo p span {
 	color:red;
+}
+a {
+  color: #FFF;
+  text-decoration:none;
 }
