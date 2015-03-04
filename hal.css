@@ -1,0 +1,18 @@
+header{
+	width:200px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+#kikoo {
+	margin:auto;
+}
+li {
+  list-style-type:none;
+}
+body {
+	margin-left:200px;
+}
+#kikoo p span {
+	color:red;
+}
